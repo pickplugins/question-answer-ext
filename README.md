@@ -4,8 +4,8 @@ This is dummy extension for search and filter extension for Post Grid plugin, yo
 
 Download post grid
 
-[https://wordpress.org/plugins/post-grid/
-](https://wordpress.org/plugins/question-answer/)
+https://wordpress.org/plugins/question-answer/
+
 Please check this file to customize input fields and process input form data.
 
 ```question-answer-ext\templates\qa-hook.php```
