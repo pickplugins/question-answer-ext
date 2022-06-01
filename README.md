@@ -1,8 +1,7 @@
 # QA - Ext
 
-This is dummy extension for search and filter extension for Post Grid plugin, you can create custom search form to filter post via post grid search. 
-
-Download post grid
+This is dummy extension for QA plugin.
+Download Plugins
 
 https://wordpress.org/plugins/question-answer/
 
